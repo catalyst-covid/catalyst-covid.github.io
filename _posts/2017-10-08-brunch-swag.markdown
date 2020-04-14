@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Brunch Swag with Allen"
+title: "Brunch Swag"
 date: 2017-10-08
 description: 
-image: https://media1.tenor.com/images/287d8d3fe1fe030423f6d8bfa815ebaf/tenor.gif?itemid=9139616
+image: /assets/images/placeholder-15.jpg
 author: Thomas Vaeth
 tags:
   - Squid

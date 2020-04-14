@@ -1,10 +1,10 @@
 # Site/SEO settings
-email: jacquiek1k@gmail.com
+email: okay@samesies.io
 baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-name: Catalyst Covid
+name: Thomas Vaeth
 title: The Barber Theme
 description: >
   Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
@@ -36,9 +36,9 @@ mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 
 # Author settings
 author:
-  - name: Catalyst Covid Team
-    bio: We are a team of Students
-    url: 
+  - name: Thomas Vaeth
+    bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
+    url: http://thomasvaeth.com
 
 # Pagination settings
 pagination:
