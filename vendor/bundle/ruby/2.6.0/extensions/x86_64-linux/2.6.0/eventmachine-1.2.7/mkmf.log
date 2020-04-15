@@ -1,0 +1,11 @@
+"x86_64-solus-linux-gcc -o conftest -I/usr/include/ruby-2.6.0/x86_64-linux -I/usr/include/ruby-2.6.0/ruby/backward -I/usr/include/ruby-2.6.0 -I.    -mtune=generic -march=x86-64 -g2 -O2 -pipe -fPIC -Wformat -Wformat-security -D_FORTIFY_SOURCE=2 -fstack-protector-strong --param ssp-buffer-size=32 -fasynchronous-unwind-tables -ftree-vectorize -feliminate-unused-debug-types -Wall -Wno-error -Wp,-D_REENTRANT -fPIC conftest.c  -L. -L/usr/lib64 -L. -Wl,--copy-dt-needed-entries -Wl,-O1 -Wl,-z,relro -Wl,-z,now -Wl,-z,max-page-size=0x1000 -Wl,-Bsymbolic-functions -Wl,--sort-common -fstack-protector-strong -rdynamic -Wl,-export-dynamic     -lruby  -lm   -lc"
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: int main(int argc, char **argv)
+4: {
+5:   return 0;
+6: }
+/* end */
+
