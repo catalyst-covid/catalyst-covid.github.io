@@ -6,46 +6,18 @@
     <description>Recent content in Posts on Catalyst COVID</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://catalyst-covid.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Markdown COVID Patients Guide</title>
-      <link>https://catalyst-covid.github.io/post/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>The World Wide COVID-19 Response</title>
+      <link>https://catalyst-covid.github.io/post/world-wind-response/</link>
+      <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://catalyst-covid.github.io/post/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Placeholder Patients</title>
-      <link>https://catalyst-covid.github.io/post/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://catalyst-covid.github.io/post/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
-pectora summo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Patient Typesetting</title>
-      <link>https://catalyst-covid.github.io/post/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://catalyst-covid.github.io/post/math-typesetting/</guid>
-      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>COVID-19 has killed Emoji Support</title>
-      <link>https://catalyst-covid.github.io/post/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://catalyst-covid.github.io/post/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+      <guid>https://catalyst-covid.github.io/post/world-wind-response/</guid>
+      <description>Introduction: Both China and Singapore exhibited dynamic, technical responses to respond to the looming threat of COVID-19, often using surveillance technologies as instruments to 1) trace the spread of the disease through the populace, 2) separate the population into healthy and sick, and 3) prevent further spread of the disease in the existing healthy population. China is an interesting case study in contagion management, given that the Chinese government created an alert system by which they could respond to potential pandemics after the SARS outbreaks of 2002.</description>
     </item>
     
   </channel>
