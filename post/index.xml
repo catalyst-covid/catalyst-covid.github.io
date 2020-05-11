@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Catalyst COVID</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://catalyst-covid.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introduction</title>
+      <link>https://catalyst-covid.github.io/post/introduction/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://catalyst-covid.github.io/post/introduction/</guid>
+      <description>The Introduction’s Introduction Welcome to Catalyst COVID, a series of stories showcasing how societies around the world are turning to mass surveillance for national security, interpersonal trust, and optimizing their economies in the time of a global pandemic. This project developed from a course taught on Cultures of Surveillance at the University of Arizona.
+Background &amp;amp; Stereotypes The first working implementation of a mass surveillance system as we stereotypically think about today was revealed to the world in 2013 when Edward Snowden released classified documents detailing the United States National Security Agency’s program to gather and record data on nearly all US citizens.</description>
+    </item>
     
     <item>
       <title>Glossary</title>
@@ -37,6 +47,25 @@ While not necessarily included in the canon of academic surveillance studies, in
       
       <guid>https://catalyst-covid.github.io/post/world-wind-response/</guid>
       <description>Intro: What is it that we mean when we say surveillance? The word itself evokes thoughts of George Orwell and Big Brother, but it’s easy to convince ourselves that we don’t always think of surveillance so negatively. What of the shopkeeper who wishes to reduce theft with security cameras? The taxi driver whose dash camera prevents insurance fraud? Is not the daycare worker who watches over a group of young children necessarily performing surveillance?</description>
+    </item>
+    
+    <item>
+      <title>Surveillance Capitalism in a COVID-19 World</title>
+      <link>https://catalyst-covid.github.io/post/capitalism-covid-surveillance/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://catalyst-covid.github.io/post/capitalism-covid-surveillance/</guid>
+      <description>Consumers in Isolation The COVID-19 pandemic has brought about the degradation of social institutions. Restaurants, movie theaters, and gyms lie abandoned, cars no longer fill the street. Social institutions where humans congregated and interacted are now gone. These stay-at-home orders issued by the government and encouraged by the public have relegated the vast majority of American citizens to their homes.
+Reports show that this pattern is here to stay. Georgia, one of the first states to allow businesses to reopen, found that consumer willingness to visit physical locations did not improve significantly, even after a massive push to reopen businesses out of economic fears.</description>
+    </item>
+    
+    <item>
+      <title>A Musical Inspiration</title>
+      <link>https://catalyst-covid.github.io/post/a-musical-inspiration/</link>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://catalyst-covid.github.io/post/a-musical-inspiration/</guid>
+      <description>The Song    Description Who’s There is a song whose instrumental parts were written by Allen El and lyrical and vocal parts written by Italian singer from the band Destination 511, Lorenzo. It showcases an artistic piece created during the quarintinte of covid 19. The song reflects how covid 19 applies to people globally, and shows the experience of a singer in a country that has gotten a lot of attention during covid 19.</description>
     </item>
     
   </channel>
